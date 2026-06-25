@@ -22,6 +22,7 @@ Personal repository for practice and unfinished proyects
 | [0342-power-of-four](https://github.com/isaac-r718/personal/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/isaac-r718/personal/tree/master/0367-valid-perfect-square) |
 | [2485-find-the-pivot-integer](https://github.com/isaac-r718/personal/tree/master/2485-find-the-pivot-integer) |
+| [2769-find-the-maximum-achievable-number](https://github.com/isaac-r718/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Prefix Sum
 |  |
 | ------- |
