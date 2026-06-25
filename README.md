@@ -1,43 +1,39 @@
-# leetcode-solutions
-My personal collection of LeetCode solutions, updated (I wish) daily to track progress, practice data structures, and sharpen algorithmic problem-solving skills.
+# personal
+Personal repository for practice and unfinished proyects
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Hash Table
+## Array
 |  |
 | ------- |
-| [1015-smallest-integer-divisible-by-k](https://github.com/isaac-r718/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/isaac-r718/personal/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+## Sorting
+|  |
+| ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/isaac-r718/personal/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
 | ------- |
-| [0231-power-of-two](https://github.com/isaac-r718/leetcode-solutions/tree/master/0231-power-of-two) |
-| [0412-fizz-buzz](https://github.com/isaac-r718/leetcode-solutions/tree/master/0412-fizz-buzz) |
-| [0415-add-strings](https://github.com/isaac-r718/leetcode-solutions/tree/master/0415-add-strings) |
-| [0441-arranging-coins](https://github.com/isaac-r718/leetcode-solutions/tree/master/0441-arranging-coins) |
-| [0507-perfect-number](https://github.com/isaac-r718/leetcode-solutions/tree/master/0507-perfect-number) |
-| [1015-smallest-integer-divisible-by-k](https://github.com/isaac-r718/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
-| [1154-day-of-the-year](https://github.com/isaac-r718/leetcode-solutions/tree/master/1154-day-of-the-year) |
-## String
+| [0009-palindrome-number](https://github.com/isaac-r718/personal/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/isaac-r718/personal/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/isaac-r718/personal/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/isaac-r718/personal/tree/master/0367-valid-perfect-square) |
+| [2485-find-the-pivot-integer](https://github.com/isaac-r718/personal/tree/master/2485-find-the-pivot-integer) |
+## Prefix Sum
 |  |
 | ------- |
-| [0412-fizz-buzz](https://github.com/isaac-r718/leetcode-solutions/tree/master/0412-fizz-buzz) |
-| [0415-add-strings](https://github.com/isaac-r718/leetcode-solutions/tree/master/0415-add-strings) |
-| [1154-day-of-the-year](https://github.com/isaac-r718/leetcode-solutions/tree/master/1154-day-of-the-year) |
-## Simulation
-|  |
-| ------- |
-| [0412-fizz-buzz](https://github.com/isaac-r718/leetcode-solutions/tree/master/0412-fizz-buzz) |
-| [0415-add-strings](https://github.com/isaac-r718/leetcode-solutions/tree/master/0415-add-strings) |
-## Binary Search
-|  |
-| ------- |
-| [0441-arranging-coins](https://github.com/isaac-r718/leetcode-solutions/tree/master/0441-arranging-coins) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/isaac-r718/leetcode-solutions/tree/master/0231-power-of-two) |
+| [2485-find-the-pivot-integer](https://github.com/isaac-r718/personal/tree/master/2485-find-the-pivot-integer) |
 ## Recursion
 |  |
 | ------- |
-| [0231-power-of-two](https://github.com/isaac-r718/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/isaac-r718/personal/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/isaac-r718/personal/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/isaac-r718/personal/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/isaac-r718/personal/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
