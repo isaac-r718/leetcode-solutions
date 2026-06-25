@@ -9,4 +9,3 @@ class Solution:
                     output.append(a)
                     break
         return output
-
