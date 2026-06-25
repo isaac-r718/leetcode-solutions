@@ -10,6 +10,7 @@ My personal collection of LeetCode solutions, updated (I wish) daily to track pr
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/isaac-r718/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/isaac-r718/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/isaac-r718/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/isaac-r718/leetcode-solutions/tree/master/0441-arranging-coins) |
@@ -31,4 +32,12 @@ My personal collection of LeetCode solutions, updated (I wish) daily to track pr
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/isaac-r718/leetcode-solutions/tree/master/0441-arranging-coins) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/isaac-r718/leetcode-solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/isaac-r718/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
