@@ -35,5 +35,6 @@ Personal repository for practice and unfinished proyects
 ## Binary Search
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/isaac-r718/leetcode-solutions/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/isaac-r718/personal/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
