@@ -6,6 +6,7 @@ Personal repository for practice and unfinished proyects
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/isaac-r718/leetcode-solutions/tree/master/0066-plus-one) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/isaac-r718/personal/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Sorting
 |  |
@@ -15,6 +16,7 @@ Personal repository for practice and unfinished proyects
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/isaac-r718/personal/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/isaac-r718/leetcode-solutions/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/isaac-r718/personal/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/isaac-r718/personal/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/isaac-r718/personal/tree/master/0367-valid-perfect-square) |
