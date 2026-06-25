@@ -8,6 +8,7 @@ Personal repository for practice and unfinished proyects
 | ------- |
 | [0066-plus-one](https://github.com/isaac-r718/leetcode-solutions/tree/master/0066-plus-one) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/isaac-r718/personal/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1929-concatenation-of-array](https://github.com/isaac-r718/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -42,4 +43,8 @@ Personal repository for practice and unfinished proyects
 | ------- |
 | [0066-plus-one](https://github.com/isaac-r718/leetcode-solutions/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/isaac-r718/personal/tree/master/0367-valid-perfect-square) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/isaac-r718/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
