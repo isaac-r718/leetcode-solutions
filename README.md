@@ -9,6 +9,7 @@ Personal repository for practice and unfinished proyects
 | [0066-plus-one](https://github.com/isaac-r718/leetcode-solutions/tree/master/0066-plus-one) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/isaac-r718/personal/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/isaac-r718/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2048-build-array-from-permutation](https://github.com/isaac-r718/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2942-find-words-containing-character](https://github.com/isaac-r718/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
@@ -48,6 +49,7 @@ Personal repository for practice and unfinished proyects
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/isaac-r718/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2048-build-array-from-permutation](https://github.com/isaac-r718/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 ## String
 |  |
 | ------- |
