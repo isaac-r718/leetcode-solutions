@@ -11,6 +11,7 @@ Personal repository for practice and unfinished proyects
 | [1929-concatenation-of-array](https://github.com/isaac-r718/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/isaac-r718/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2942-find-words-containing-character](https://github.com/isaac-r718/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [4008-restore-finishing-order](https://github.com/isaac-r718/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
@@ -57,4 +58,8 @@ Personal repository for practice and unfinished proyects
 | ------- |
 | [2942-find-words-containing-character](https://github.com/isaac-r718/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/isaac-r718/leetcode-solutions/tree/master/3379-score-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [4008-restore-finishing-order](https://github.com/isaac-r718/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 <!---LeetCode Topics End-->
