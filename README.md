@@ -27,6 +27,7 @@ Personal repository for practice and unfinished proyects
 | [2469-convert-the-temperature](https://github.com/isaac-r718/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/isaac-r718/personal/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/isaac-r718/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/isaac-r718/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Prefix Sum
 |  |
 | ------- |
