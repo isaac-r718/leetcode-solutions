@@ -33,6 +33,7 @@ Personal repository for practice and unfinished proyects
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/isaac-r718/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/isaac-r718/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [4168-mirror-distance-of-an-integer](https://github.com/isaac-r718/leetcode-solutions/tree/master/4168-mirror-distance-of-an-integer) |
+| [4321-digit-frequency-score](https://github.com/isaac-r718/leetcode-solutions/tree/master/4321-digit-frequency-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -66,4 +67,5 @@ Personal repository for practice and unfinished proyects
 |  |
 | ------- |
 | [4008-restore-finishing-order](https://github.com/isaac-r718/leetcode-solutions/tree/master/4008-restore-finishing-order) |
+| [4321-digit-frequency-score](https://github.com/isaac-r718/leetcode-solutions/tree/master/4321-digit-frequency-score) |
 <!---LeetCode Topics End-->
