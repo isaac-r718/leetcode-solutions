@@ -52,4 +52,5 @@ Personal repository for practice and unfinished proyects
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/isaac-r718/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/isaac-r718/leetcode-solutions/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
