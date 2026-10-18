@@ -6,6 +6,7 @@ Personal repository for practice and unfinished proyects
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/isaac-r718/leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/isaac-r718/leetcode-solutions/tree/master/0066-plus-one) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/isaac-r718/personal/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/isaac-r718/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -66,6 +67,7 @@ Personal repository for practice and unfinished proyects
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/isaac-r718/leetcode-solutions/tree/master/0001-two-sum) |
 | [4008-restore-finishing-order](https://github.com/isaac-r718/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4321-digit-frequency-score](https://github.com/isaac-r718/leetcode-solutions/tree/master/4321-digit-frequency-score) |
 <!---LeetCode Topics End-->
