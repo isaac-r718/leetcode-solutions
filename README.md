@@ -24,6 +24,7 @@ Personal repository for practice and unfinished proyects
 | ------- |
 | [0009-palindrome-number](https://github.com/isaac-r718/personal/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/isaac-r718/leetcode-solutions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/isaac-r718/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/isaac-r718/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/isaac-r718/personal/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/isaac-r718/personal/tree/master/0342-power-of-four) |
@@ -56,6 +57,7 @@ Personal repository for practice and unfinished proyects
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/isaac-r718/leetcode-solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/isaac-r718/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/isaac-r718/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [4299-concatenate-array-with-reverse](https://github.com/isaac-r718/leetcode-solutions/tree/master/4299-concatenate-array-with-reverse) |
@@ -70,4 +72,8 @@ Personal repository for practice and unfinished proyects
 | [0001-two-sum](https://github.com/isaac-r718/leetcode-solutions/tree/master/0001-two-sum) |
 | [4008-restore-finishing-order](https://github.com/isaac-r718/leetcode-solutions/tree/master/4008-restore-finishing-order) |
 | [4321-digit-frequency-score](https://github.com/isaac-r718/leetcode-solutions/tree/master/4321-digit-frequency-score) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/isaac-r718/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
