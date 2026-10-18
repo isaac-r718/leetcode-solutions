@@ -8,6 +8,7 @@ Personal repository for practice and unfinished proyects
 | ------- |
 | [0001-two-sum](https://github.com/isaac-r718/leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/isaac-r718/leetcode-solutions/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/isaac-r718/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/isaac-r718/personal/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/isaac-r718/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/isaac-r718/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
@@ -18,6 +19,7 @@ Personal repository for practice and unfinished proyects
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/isaac-r718/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/isaac-r718/personal/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
@@ -29,6 +31,7 @@ Personal repository for practice and unfinished proyects
 | [0326-power-of-three](https://github.com/isaac-r718/personal/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/isaac-r718/personal/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/isaac-r718/personal/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/isaac-r718/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2469-convert-the-temperature](https://github.com/isaac-r718/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/isaac-r718/personal/tree/master/2485-find-the-pivot-integer) |
 | [2769-find-the-maximum-achievable-number](https://github.com/isaac-r718/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
